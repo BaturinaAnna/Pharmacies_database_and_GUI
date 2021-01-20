@@ -1,6 +1,7 @@
 # Pharmacies_database_and_GUI
 
 Database for the network of pharmacies and GUI to work with tables of this database.
+Demonstration of work - video Demo_work
 
 ### Tables:
  - specialization - information about specialization of pharmacy
